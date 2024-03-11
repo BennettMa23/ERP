@@ -1,18 +1,19 @@
 package com.shun.sys.entity;
 
-import com.baomidou.mybatisplus.annotation.TableName;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
-import java.util.Date;
+import com.baomidou.mybatisplus.annotation.TableName;
+
 import java.io.Serializable;
+import java.util.Date;
 
 /**
  * <p>
  *
  * </p>
  *
- * @author shun
- * @since 2024-03-05
+ * @author KazuGin
+ * @since 2020-08-20
  */
 @TableName("sys_dept")
 public class Dept implements Serializable {

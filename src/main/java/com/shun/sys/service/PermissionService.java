@@ -15,7 +15,7 @@ import java.util.List;
  */
 public interface PermissionService extends IService<Permission> {
     /**
-     * 这种看方法名就知道方法作用
+     * 这种看方法名就知道方法作用的就不要注释了吧，罗里吧嗦
      * @param roleId
      * @return
      */
